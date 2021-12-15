@@ -1,29 +1,31 @@
 {
   "files": {
-    "main.css": "/static/css/main.e3adad1e.chunk.css",
-    "main.js": "/static/js/main.0d91ead3.chunk.js",
-    "runtime-main.js": "/static/js/runtime-main.092533d9.js",
+    "main.css": "/static/css/main.afa669d5.chunk.css",
+    "main.js": "/static/js/main.88d69c94.chunk.js",
+    "runtime-main.js": "/static/js/runtime-main.aa4bc062.js",
     "static/css/2.e8d6ffa6.chunk.css": "/static/css/2.e8d6ffa6.chunk.css",
-    "static/js/2.17cd701b.chunk.js": "/static/js/2.17cd701b.chunk.js",
-    "static/js/3.14c4d22d.chunk.js": "/static/js/3.14c4d22d.chunk.js",
-    "static/js/4.ffd57b87.chunk.js": "/static/js/4.ffd57b87.chunk.js",
+    "static/js/2.181ba6b6.chunk.js": "/static/js/2.181ba6b6.chunk.js",
+    "static/js/3.2206314b.chunk.js": "/static/js/3.2206314b.chunk.js",
+    "static/js/4.60c902c5.chunk.js": "/static/js/4.60c902c5.chunk.js",
     "index.html": "/index.html",
-    "precache-manifest.c8a11ce5e16ea135f217d975306a8782.js": "/precache-manifest.c8a11ce5e16ea135f217d975306a8782.js",
+    "precache-manifest.33231acf85e8c177a2d0976b1b134472.js": "/precache-manifest.33231acf85e8c177a2d0976b1b134472.js",
     "service-worker.js": "/service-worker.js",
-    "static/js/2.17cd701b.chunk.js.LICENSE.txt": "/static/js/2.17cd701b.chunk.js.LICENSE.txt",
-    "static/js/3.14c4d22d.chunk.js.LICENSE.txt": "/static/js/3.14c4d22d.chunk.js.LICENSE.txt",
+    "static/js/2.181ba6b6.chunk.js.LICENSE.txt": "/static/js/2.181ba6b6.chunk.js.LICENSE.txt",
+    "static/js/3.2206314b.chunk.js.LICENSE.txt": "/static/js/3.2206314b.chunk.js.LICENSE.txt",
     "static/media/style.scss": "/static/media/diamond.4c16202a.png",
+    "static/media/eth.png": "/static/media/eth.6594b16f.png",
     "static/media/fabwelt.jpg": "/static/media/fabwelt.6b1463f6.jpg",
     "static/media/lasthorde.jpg": "/static/media/lasthorde.f5eefa38.jpg",
     "static/media/seor.png": "/static/media/seor.72909f91.png",
+    "static/media/sidus.jpg": "/static/media/sidus.ef30de48.jpg",
     "static/media/Banner.module.scss": "/static/media/supported-chains.4d54db59.png",
     "static/media/tribeland.png": "/static/media/tribeland.4d75c327.png"
   },
   "entrypoints": [
-    "static/js/runtime-main.092533d9.js",
+    "static/js/runtime-main.aa4bc062.js",
     "static/css/2.e8d6ffa6.chunk.css",
-    "static/js/2.17cd701b.chunk.js",
-    "static/css/main.e3adad1e.chunk.css",
-    "static/js/main.0d91ead3.chunk.js"
+    "static/js/2.181ba6b6.chunk.js",
+    "static/css/main.afa669d5.chunk.css",
+    "static/js/main.88d69c94.chunk.js"
   ]
 }
