@@ -1,31 +1,32 @@
 {
   "files": {
     "main.css": "/static/css/main.c2b73738.chunk.css",
-    "main.js": "/static/js/main.2628da29.chunk.js",
-    "runtime-main.js": "/static/js/runtime-main.239faaba.js",
+    "main.js": "/static/js/main.2997625c.chunk.js",
+    "runtime-main.js": "/static/js/runtime-main.3097b09a.js",
     "static/css/2.e8d6ffa6.chunk.css": "/static/css/2.e8d6ffa6.chunk.css",
-    "static/js/2.cae4f25b.chunk.js": "/static/js/2.cae4f25b.chunk.js",
-    "static/js/3.f51a0532.chunk.js": "/static/js/3.f51a0532.chunk.js",
-    "static/js/4.60c902c5.chunk.js": "/static/js/4.60c902c5.chunk.js",
+    "static/js/2.978c70b9.chunk.js": "/static/js/2.978c70b9.chunk.js",
+    "static/js/3.aa1951fc.chunk.js": "/static/js/3.aa1951fc.chunk.js",
+    "static/js/4.3dcf4d15.chunk.js": "/static/js/4.3dcf4d15.chunk.js",
     "index.html": "/index.html",
-    "precache-manifest.6776b4491cfa4a79e4375b8b61a794f1.js": "/precache-manifest.6776b4491cfa4a79e4375b8b61a794f1.js",
+    "precache-manifest.1b1687adf72f5015d2936403f35477b4.js": "/precache-manifest.1b1687adf72f5015d2936403f35477b4.js",
     "service-worker.js": "/service-worker.js",
-    "static/js/2.cae4f25b.chunk.js.LICENSE.txt": "/static/js/2.cae4f25b.chunk.js.LICENSE.txt",
-    "static/js/3.f51a0532.chunk.js.LICENSE.txt": "/static/js/3.f51a0532.chunk.js.LICENSE.txt",
+    "static/js/2.978c70b9.chunk.js.LICENSE.txt": "/static/js/2.978c70b9.chunk.js.LICENSE.txt",
+    "static/js/3.aa1951fc.chunk.js.LICENSE.txt": "/static/js/3.aa1951fc.chunk.js.LICENSE.txt",
     "static/media/style.scss": "/static/media/diamond.4c16202a.png",
     "static/media/eth.png": "/static/media/eth.6594b16f.png",
     "static/media/fabwelt.jpg": "/static/media/fabwelt.6b1463f6.jpg",
     "static/media/lasthorde.jpg": "/static/media/lasthorde.f5eefa38.jpg",
+    "static/media/mintlayer.jpg": "/static/media/mintlayer.da891867.jpg",
     "static/media/seor.png": "/static/media/seor.72909f91.png",
     "static/media/sidus.jpg": "/static/media/sidus.ef30de48.jpg",
     "static/media/Banner.module.scss": "/static/media/supported-chains.4d54db59.png",
     "static/media/tribeland.png": "/static/media/tribeland.4d75c327.png"
   },
   "entrypoints": [
-    "static/js/runtime-main.239faaba.js",
+    "static/js/runtime-main.3097b09a.js",
     "static/css/2.e8d6ffa6.chunk.css",
-    "static/js/2.cae4f25b.chunk.js",
+    "static/js/2.978c70b9.chunk.js",
     "static/css/main.c2b73738.chunk.css",
-    "static/js/main.2628da29.chunk.js"
+    "static/js/main.2997625c.chunk.js"
   ]
 }
