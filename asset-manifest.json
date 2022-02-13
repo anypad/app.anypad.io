@@ -1,22 +1,23 @@
 {
   "files": {
-    "main.css": "/static/css/main.3de3b5b3.chunk.css",
-    "main.js": "/static/js/main.0d386f68.chunk.js",
-    "runtime-main.js": "/static/js/runtime-main.70196d60.js",
+    "main.css": "/static/css/main.bb364809.chunk.css",
+    "main.js": "/static/js/main.7878c85b.chunk.js",
+    "runtime-main.js": "/static/js/runtime-main.b592665a.js",
     "static/css/2.e8d6ffa6.chunk.css": "/static/css/2.e8d6ffa6.chunk.css",
-    "static/js/2.0313d4b8.chunk.js": "/static/js/2.0313d4b8.chunk.js",
-    "static/js/3.55342fa6.chunk.js": "/static/js/3.55342fa6.chunk.js",
-    "static/js/4.3bdb3d30.chunk.js": "/static/js/4.3bdb3d30.chunk.js",
+    "static/js/2.76e68a24.chunk.js": "/static/js/2.76e68a24.chunk.js",
+    "static/js/3.420af382.chunk.js": "/static/js/3.420af382.chunk.js",
+    "static/js/4.b83fe45c.chunk.js": "/static/js/4.b83fe45c.chunk.js",
     "index.html": "/index.html",
-    "precache-manifest.b0f3fde0e9e4b8e7ed721ae345012501.js": "/precache-manifest.b0f3fde0e9e4b8e7ed721ae345012501.js",
+    "precache-manifest.61c1cd43c0e985ee60af995931b22e3c.js": "/precache-manifest.61c1cd43c0e985ee60af995931b22e3c.js",
     "service-worker.js": "/service-worker.js",
-    "static/js/2.0313d4b8.chunk.js.LICENSE.txt": "/static/js/2.0313d4b8.chunk.js.LICENSE.txt",
-    "static/js/3.55342fa6.chunk.js.LICENSE.txt": "/static/js/3.55342fa6.chunk.js.LICENSE.txt",
+    "static/js/2.76e68a24.chunk.js.LICENSE.txt": "/static/js/2.76e68a24.chunk.js.LICENSE.txt",
+    "static/js/3.420af382.chunk.js.LICENSE.txt": "/static/js/3.420af382.chunk.js.LICENSE.txt",
     "static/media/affyn.jpg": "/static/media/affyn.6c6329a9.jpg",
     "static/media/style.scss": "/static/media/diamond.4c16202a.png",
     "static/media/eth.png": "/static/media/eth.6594b16f.png",
     "static/media/fabwelt.jpg": "/static/media/fabwelt.6b1463f6.jpg",
     "static/media/lasthorde.jpg": "/static/media/lasthorde.f5eefa38.jpg",
+    "static/media/metaoasisdao.jpg": "/static/media/metaoasisdao.67803cc5.jpg",
     "static/media/mintlayer.jpg": "/static/media/mintlayer.da891867.jpg",
     "static/media/seor.png": "/static/media/seor.72909f91.png",
     "static/media/sidus.jpg": "/static/media/sidus.ef30de48.jpg",
@@ -24,10 +25,10 @@
     "static/media/tribeland.png": "/static/media/tribeland.4d75c327.png"
   },
   "entrypoints": [
-    "static/js/runtime-main.70196d60.js",
+    "static/js/runtime-main.b592665a.js",
     "static/css/2.e8d6ffa6.chunk.css",
-    "static/js/2.0313d4b8.chunk.js",
-    "static/css/main.3de3b5b3.chunk.css",
-    "static/js/main.0d386f68.chunk.js"
+    "static/js/2.76e68a24.chunk.js",
+    "static/css/main.bb364809.chunk.css",
+    "static/js/main.7878c85b.chunk.js"
   ]
 }
