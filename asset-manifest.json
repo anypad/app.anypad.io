@@ -1,14 +1,14 @@
 {
   "files": {
     "main.css": "/static/css/main.bb364809.chunk.css",
-    "main.js": "/static/js/main.7878c85b.chunk.js",
+    "main.js": "/static/js/main.8c19bd86.chunk.js",
     "runtime-main.js": "/static/js/runtime-main.b592665a.js",
     "static/css/2.e8d6ffa6.chunk.css": "/static/css/2.e8d6ffa6.chunk.css",
     "static/js/2.76e68a24.chunk.js": "/static/js/2.76e68a24.chunk.js",
     "static/js/3.420af382.chunk.js": "/static/js/3.420af382.chunk.js",
     "static/js/4.b83fe45c.chunk.js": "/static/js/4.b83fe45c.chunk.js",
     "index.html": "/index.html",
-    "precache-manifest.61c1cd43c0e985ee60af995931b22e3c.js": "/precache-manifest.61c1cd43c0e985ee60af995931b22e3c.js",
+    "precache-manifest.f5bccad4e65adaf77b284efd5ff52930.js": "/precache-manifest.f5bccad4e65adaf77b284efd5ff52930.js",
     "service-worker.js": "/service-worker.js",
     "static/js/2.76e68a24.chunk.js.LICENSE.txt": "/static/js/2.76e68a24.chunk.js.LICENSE.txt",
     "static/js/3.420af382.chunk.js.LICENSE.txt": "/static/js/3.420af382.chunk.js.LICENSE.txt",
@@ -17,7 +17,6 @@
     "static/media/eth.png": "/static/media/eth.6594b16f.png",
     "static/media/fabwelt.jpg": "/static/media/fabwelt.6b1463f6.jpg",
     "static/media/lasthorde.jpg": "/static/media/lasthorde.f5eefa38.jpg",
-    "static/media/metaoasisdao.jpg": "/static/media/metaoasisdao.67803cc5.jpg",
     "static/media/mintlayer.jpg": "/static/media/mintlayer.da891867.jpg",
     "static/media/seor.png": "/static/media/seor.72909f91.png",
     "static/media/sidus.jpg": "/static/media/sidus.ef30de48.jpg",
@@ -29,6 +28,6 @@
     "static/css/2.e8d6ffa6.chunk.css",
     "static/js/2.76e68a24.chunk.js",
     "static/css/main.bb364809.chunk.css",
-    "static/js/main.7878c85b.chunk.js"
+    "static/js/main.8c19bd86.chunk.js"
   ]
 }
