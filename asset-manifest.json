@@ -1,20 +1,19 @@
 {
   "files": {
     "main.css": "/static/css/main.d8c1f4d2.chunk.css",
-    "main.js": "/static/js/main.c3f4e1a9.chunk.js",
-    "runtime-main.js": "/static/js/runtime-main.338e5548.js",
+    "main.js": "/static/js/main.a1ad2846.chunk.js",
+    "runtime-main.js": "/static/js/runtime-main.b70e71aa.js",
     "static/css/2.e8d6ffa6.chunk.css": "/static/css/2.e8d6ffa6.chunk.css",
-    "static/js/2.886da946.chunk.js": "/static/js/2.886da946.chunk.js",
-    "static/js/3.cf079694.chunk.js": "/static/js/3.cf079694.chunk.js",
-    "static/js/4.6e767cca.chunk.js": "/static/js/4.6e767cca.chunk.js",
+    "static/js/2.1e3b74d0.chunk.js": "/static/js/2.1e3b74d0.chunk.js",
+    "static/js/3.de2b417c.chunk.js": "/static/js/3.de2b417c.chunk.js",
+    "static/js/4.64d1b67a.chunk.js": "/static/js/4.64d1b67a.chunk.js",
     "index.html": "/index.html",
-    "precache-manifest.77c2936cf684a821f6cc2bb88c046bcc.js": "/precache-manifest.77c2936cf684a821f6cc2bb88c046bcc.js",
+    "precache-manifest.44818a50d05e03ba9583f6781be9bb04.js": "/precache-manifest.44818a50d05e03ba9583f6781be9bb04.js",
     "service-worker.js": "/service-worker.js",
-    "static/js/2.886da946.chunk.js.LICENSE.txt": "/static/js/2.886da946.chunk.js.LICENSE.txt",
-    "static/js/3.cf079694.chunk.js.LICENSE.txt": "/static/js/3.cf079694.chunk.js.LICENSE.txt",
+    "static/js/2.1e3b74d0.chunk.js.LICENSE.txt": "/static/js/2.1e3b74d0.chunk.js.LICENSE.txt",
+    "static/js/3.de2b417c.chunk.js.LICENSE.txt": "/static/js/3.de2b417c.chunk.js.LICENSE.txt",
     "static/media/affyn.jpg": "/static/media/affyn.6c6329a9.jpg",
     "static/media/style.scss": "/static/media/diamond.4c16202a.png",
-    "static/media/cryptocade.jpg": "/static/media/cryptocade.510ec01f.jpg",
     "static/media/duckieland.jpg": "/static/media/duckieland.1f7ea0b0.jpg",
     "static/media/eth.png": "/static/media/eth.6594b16f.png",
     "static/media/fabwelt.jpg": "/static/media/fabwelt.6b1463f6.jpg",
@@ -22,14 +21,15 @@
     "static/media/mintlayer.jpg": "/static/media/mintlayer.da891867.jpg",
     "static/media/seor.png": "/static/media/seor.72909f91.png",
     "static/media/sidus.jpg": "/static/media/sidus.ef30de48.jpg",
+    "static/media/supernova.jpg": "/static/media/supernova.6ae99d1b.jpg",
     "static/media/Banner.module.scss": "/static/media/supported-chains.4d54db59.png",
     "static/media/tribeland.png": "/static/media/tribeland.4d75c327.png"
   },
   "entrypoints": [
-    "static/js/runtime-main.338e5548.js",
+    "static/js/runtime-main.b70e71aa.js",
     "static/css/2.e8d6ffa6.chunk.css",
-    "static/js/2.886da946.chunk.js",
+    "static/js/2.1e3b74d0.chunk.js",
     "static/css/main.d8c1f4d2.chunk.css",
-    "static/js/main.c3f4e1a9.chunk.js"
+    "static/js/main.a1ad2846.chunk.js"
   ]
 }
