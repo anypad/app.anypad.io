@@ -1,17 +1,17 @@
 {
   "files": {
     "main.css": "/static/css/main.9bf3b9b6.chunk.css",
-    "main.js": "/static/js/main.144ff442.chunk.js",
-    "runtime-main.js": "/static/js/runtime-main.b259ecd7.js",
+    "main.js": "/static/js/main.7486728b.chunk.js",
+    "runtime-main.js": "/static/js/runtime-main.e36b043b.js",
     "static/css/2.e8d6ffa6.chunk.css": "/static/css/2.e8d6ffa6.chunk.css",
-    "static/js/2.36d03fe0.chunk.js": "/static/js/2.36d03fe0.chunk.js",
-    "static/js/3.341196d2.chunk.js": "/static/js/3.341196d2.chunk.js",
-    "static/js/4.4683b849.chunk.js": "/static/js/4.4683b849.chunk.js",
+    "static/js/2.8b9dc8ed.chunk.js": "/static/js/2.8b9dc8ed.chunk.js",
+    "static/js/3.42f4d17d.chunk.js": "/static/js/3.42f4d17d.chunk.js",
+    "static/js/4.b82bfa4e.chunk.js": "/static/js/4.b82bfa4e.chunk.js",
     "index.html": "/index.html",
-    "precache-manifest.9c39af8034f2282b23df17661d645a82.js": "/precache-manifest.9c39af8034f2282b23df17661d645a82.js",
+    "precache-manifest.9d4671b4381ecf31af605e7d2d283790.js": "/precache-manifest.9d4671b4381ecf31af605e7d2d283790.js",
     "service-worker.js": "/service-worker.js",
-    "static/js/2.36d03fe0.chunk.js.LICENSE.txt": "/static/js/2.36d03fe0.chunk.js.LICENSE.txt",
-    "static/js/3.341196d2.chunk.js.LICENSE.txt": "/static/js/3.341196d2.chunk.js.LICENSE.txt",
+    "static/js/2.8b9dc8ed.chunk.js.LICENSE.txt": "/static/js/2.8b9dc8ed.chunk.js.LICENSE.txt",
+    "static/js/3.42f4d17d.chunk.js.LICENSE.txt": "/static/js/3.42f4d17d.chunk.js.LICENSE.txt",
     "static/media/affyn.jpg": "/static/media/affyn.6c6329a9.jpg",
     "static/media/anypad.svg": "/static/media/anypad.bb74dc76.svg",
     "static/media/style.scss": "/static/media/diamond.4c16202a.png",
@@ -29,13 +29,14 @@
     "static/media/sidus.jpg": "/static/media/sidus.ef30de48.jpg",
     "static/media/solana.svg": "/static/media/solana.5a739eae.svg",
     "static/media/supernova.jpg": "/static/media/supernova.6ae99d1b.jpg",
+    "static/media/taroverse.jpg": "/static/media/taroverse.d2517706.jpg",
     "static/media/tribeland.png": "/static/media/tribeland.4d75c327.png"
   },
   "entrypoints": [
-    "static/js/runtime-main.b259ecd7.js",
+    "static/js/runtime-main.e36b043b.js",
     "static/css/2.e8d6ffa6.chunk.css",
-    "static/js/2.36d03fe0.chunk.js",
+    "static/js/2.8b9dc8ed.chunk.js",
     "static/css/main.9bf3b9b6.chunk.css",
-    "static/js/main.144ff442.chunk.js"
+    "static/js/main.7486728b.chunk.js"
   ]
 }
