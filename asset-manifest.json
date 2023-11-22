@@ -1,17 +1,17 @@
 {
   "files": {
     "main.css": "/static/css/main.7c388c2b.chunk.css",
-    "main.js": "/static/js/main.d6d9deaa.chunk.js",
-    "runtime-main.js": "/static/js/runtime-main.13bf554a.js",
+    "main.js": "/static/js/main.09ef8f56.chunk.js",
+    "runtime-main.js": "/static/js/runtime-main.90d69085.js",
     "static/css/2.e8d6ffa6.chunk.css": "/static/css/2.e8d6ffa6.chunk.css",
-    "static/js/2.5baf5bac.chunk.js": "/static/js/2.5baf5bac.chunk.js",
-    "static/js/3.5ebb7e31.chunk.js": "/static/js/3.5ebb7e31.chunk.js",
-    "static/js/4.168b27d4.chunk.js": "/static/js/4.168b27d4.chunk.js",
+    "static/js/2.624bc583.chunk.js": "/static/js/2.624bc583.chunk.js",
+    "static/js/3.4a340a25.chunk.js": "/static/js/3.4a340a25.chunk.js",
+    "static/js/4.48702939.chunk.js": "/static/js/4.48702939.chunk.js",
     "index.html": "/index.html",
-    "precache-manifest.44ecc5a8ac7a7e95631e5c4cc2a2171c.js": "/precache-manifest.44ecc5a8ac7a7e95631e5c4cc2a2171c.js",
+    "precache-manifest.48dd38fb2ea4331948693ebdceb2c07b.js": "/precache-manifest.48dd38fb2ea4331948693ebdceb2c07b.js",
     "service-worker.js": "/service-worker.js",
-    "static/js/2.5baf5bac.chunk.js.LICENSE.txt": "/static/js/2.5baf5bac.chunk.js.LICENSE.txt",
-    "static/js/3.5ebb7e31.chunk.js.LICENSE.txt": "/static/js/3.5ebb7e31.chunk.js.LICENSE.txt",
+    "static/js/2.624bc583.chunk.js.LICENSE.txt": "/static/js/2.624bc583.chunk.js.LICENSE.txt",
+    "static/js/3.4a340a25.chunk.js.LICENSE.txt": "/static/js/3.4a340a25.chunk.js.LICENSE.txt",
     "static/media/affyn.jpg": "/static/media/affyn.6c6329a9.jpg",
     "static/media/anypad.svg": "/static/media/anypad.bb74dc76.svg",
     "static/media/style.scss": "/static/media/diamond.4c16202a.png",
@@ -34,13 +34,14 @@
     "static/media/supernova.jpg": "/static/media/supernova.6ae99d1b.jpg",
     "static/media/taroverse.jpg": "/static/media/taroverse.d2517706.jpg",
     "static/media/tribeland.png": "/static/media/tribeland.4d75c327.png",
-    "static/media/vrjam.jpg": "/static/media/vrjam.d59b3d11.jpg"
+    "static/media/vrjam.jpg": "/static/media/vrjam.d59b3d11.jpg",
+    "static/media/workx.png": "/static/media/workx.7cdae6a1.png"
   },
   "entrypoints": [
-    "static/js/runtime-main.13bf554a.js",
+    "static/js/runtime-main.90d69085.js",
     "static/css/2.e8d6ffa6.chunk.css",
-    "static/js/2.5baf5bac.chunk.js",
+    "static/js/2.624bc583.chunk.js",
     "static/css/main.7c388c2b.chunk.css",
-    "static/js/main.d6d9deaa.chunk.js"
+    "static/js/main.09ef8f56.chunk.js"
   ]
 }
